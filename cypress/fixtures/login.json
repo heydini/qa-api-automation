@@ -1,0 +1,21 @@
+{
+  "valid": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "unregistered": {
+    "email": "notfound@reqres.in",
+    "password": "123"
+  },
+  "invalidFormatEmail": {
+    "email": "eve.holt@reqres",
+    "password": "cityslicka"
+  },
+  "missingPassword": {
+    "email": "eve.holt@reqres.in"
+  },
+  "missingEmail": {
+    "password": "cityslicka"
+  }
+
+}
